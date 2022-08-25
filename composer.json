@@ -1,0 +1,19 @@
+{
+    "name": "elk_dev/session-class",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kitadi Elie",
+            "email": "elk.dev.official@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^6.1",
+        "phpunit/phpunit": "^9.5"
+    }
+}
